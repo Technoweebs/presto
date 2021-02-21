@@ -26,7 +26,7 @@
     <br />
     <a href="https://github.com/Technoweebs/presto">Explore the docs</a>
     ·
-    <a href="https://github.com/Technoweebs/presto/issues">prestort Bug</a>
+    <a href="https://github.com/Technoweebs/presto/issues">Report Bug</a>
     ·
     <a href="https://github.com/Technoweebs/presto/issues">Request Feature</a>
   </p>
